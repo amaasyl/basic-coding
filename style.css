@@ -4,6 +4,12 @@ body{
 }
 h1{
 color: #8f1c1c;
+font-size: 50px;
+}
+ul{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
 }
 #box-1{
     background-color: #c04898;
